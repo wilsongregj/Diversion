@@ -4,5 +4,7 @@ README
 Diversions is a collecton of simple fun games for:
 Mac, PC, iPad, Android, and iPhone.
 
-Here, the development is focused on the game engine.
-The UI, network, and server access are being developed in other repositories.
+Core development    - game engine
+UI development      - user interface on mobile device (tablet, phone)
+Network development - access to internet and web services
+Server development  - support applicats running on server
